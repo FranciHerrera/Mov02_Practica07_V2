@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mov2_Practica07</string>
+    <string name="type">Tipos de Mapa</string>
+    <string name="estandar">Estandar</string>
+    <string name="satelite">Satélite</string>
+    <string name="hibrida">Hibrida</string>
+    <string name="polilinea">Trazar mapa polilinea</string>
+    <string name="polilinea2">Trazar mapa internet</string>
+    <string name="inicio">Punto de partida</string>
+    <string name="fin">Punto de destino</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
